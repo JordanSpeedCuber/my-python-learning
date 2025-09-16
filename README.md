@@ -31,6 +31,18 @@ Topics covered include:
 
 ---
 
+## ✅ Learning Progress
+- [x] **Python Basics** - Comments, print, variables, input *(Completed)*
+- [x] **Data Types** - Strings, numbers, basic operations *(Completed)*
+- [x] **Control Flow & Boolean Logic** - Conditionals, logical operators *(Completed)*
+- [ ] **Loops** - For loops, while loops, iterations *(Next)*
+- [ ] **Functions** - Definition, parameters, return values
+- [ ] **File Operations** - Reading, writing, CSV handling
+- [ ] **Error Handling** - Try/except, debugging
+- [ ] **Data Structures** - Lists, dictionaries, advanced operations
+
+---
+
 ## 🛠 Skills Practiced
 
 - Python 3 fundamentals and data types  
@@ -38,6 +50,31 @@ Topics covered include:
 - Logical operators, boolean expressions, and control flow  
 - Data cleaning and formatting  
 - Practical problem-solving exercises
+
+---
+
+## 📁 Repository Structure
+📂 LEARNING_PYTHON/
+├── 📁 1_Introduction/
+│   ├── 1.1_Comments_&_Print.py
+│   ├── 1.2_Escape_Sequences.py
+│   ├── 1.3_Input_Function.py
+│   └── 1.4_Variables.py
+├── 📁 2_Data_Types/
+│   ├── 2.1_Intro_to_data_types.py
+│   ├── 2.2_String_Functions.py
+│   ├── 2.3_Number_Functions.py
+│   └── 2.6_PRACTICE_TIME.py
+├── 📁 3_Control_Flow/
+│   ├── Boolean_Expressions.py
+│   └── EXERCISES.py
+└── 📁 exercises/ - Practical validation and logic exercises
+
+---
+
+**📝 Current Focus:** Control Flow and Boolean Logic  
+**🔄 Last Updated:** September 2025  
+**📈 Files:** 10+ Python scripts covering fundamentals to intermediate concepts
 
 ---
 
